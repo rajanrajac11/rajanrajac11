@@ -1,7 +1,20 @@
 <h1 align="center">Hi 👋, I'm Rajan Raj Acharya</h1>
 <h3 align="center">A passionate Frontend Developer from Nepal</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajanrajac11&label=Profile%20views&color=0e75b6&style=flat" alt="rajanrajac11" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rajanrajac11&label=Profile%20views&color=0e75b6&style=flat" alt="rajanrajac11" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o6ZsYm5XQQ3ovxadC/giphy.gif" alt="Flute Music" width="400"/>
+</p>
+
+<p align="center">
+  <audio controls>
+    <source src="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3" type="audio/mp3">
+    Your browser does not support the audio element.
+  </audio>
+</p>
 
 - 🌱 I’m currently learning **React.js**
 
@@ -35,4 +48,8 @@
 
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4%20and%20JS-brightgreen" alt="badge" />
 </p>
