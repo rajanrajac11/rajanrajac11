@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajan Raj Acharya</h1>
-<h3 align="center">A passionate Frontend Developer from Nepal</h3>
+<h3 align="center" style="animation: fadeIn 2s;">I am currently pursuing a Software Engineering degree</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rajanrajac11&label=Profile%20views&color=0e75b6&style=flat" alt="rajanrajac11" />
@@ -11,19 +11,19 @@
 
 <p align="center">
   <audio controls>
-    <source src="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3" type="audio/mp3">
-    Your browser does not support the audio element.
+    <source src="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3" type="audio/mpeg">
+    Your browser does not support the audio element. <a href="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3">Listen here</a>.
   </audio>
 </p>
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently exploring **Web Development**
 
-- ✉️ How to reach me **acharyarajan07@gmail.com**
+- ✉️ How to reach me **acharya.rajan.raj11@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rajan-raj-acharya-29283a2a4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajan-raj-acharya" height="30" width="40" /></a>
-<a href="https://instagram.com/rajanrajac11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rajanrajac11" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rajan-raj-acharya-29283a2a4" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajan-raj-acharya" height="30" width="40" /></a>
+<a href="https://instagram.com/rajanrajac11" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rajanrajac11" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -53,3 +53,10 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4%20and%20JS-brightgreen" alt="badge" />
 </p>
+
+<style>
+@keyframes fadeIn {
+  0% { opacity: 0; }
+  100% { opacity: 1; }
+}
+</style>
