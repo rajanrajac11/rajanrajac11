@@ -54,9 +54,3 @@
   <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4%20and%20JS-brightgreen" alt="badge" />
 </p>
 
-<style>
-@keyframes fadeIn {
-  0% { opacity: 0; }
-  100% { opacity: 1; }
-}
-</style>
